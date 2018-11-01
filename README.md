@@ -3,7 +3,29 @@
 
 ---
 
+Sample variable for repo: [[any_repo_var]]
 
+Version = 0.0.2
+Library name = hellobaby
+Title = hellobaby
+Keywords = good
+
+### Hot to install
+
+```shell
+pip3 install hellobaby==0.0.2
+```
+                    
+
+### How to use
+
+```python
+from hellobaby import hellobaby
+hellobaby().test('Hello')
+```
+                
+
+    
 
 ---
 
