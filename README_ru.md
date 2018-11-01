@@ -5,7 +5,7 @@
 
 Пример переменной для репо: [[any_repo_var]]
 
-Версия = 0.0.7
+Версия = 0.0.8
 Имя библиотеки = hellobaby
 Заголовок = hellobaby
 Ключевые слова = good
@@ -13,7 +13,7 @@
 ### Горячая установка
 
 ```sh
-pip3 install hellobaby==0.0.7
+pip3 install hellobaby==0.0.8
 ```
                     
 
