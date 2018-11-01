@@ -3,7 +3,26 @@
 
 ---
 
-False
+Variable de muestra para repo: [[any_repo_var]]
+
+Versión = 0.0.6
+Nombre de la biblioteca = hellobaby
+Título = hellobaby
+Palabras clave = good
+
+### Caliente para instalar
+
+```shell
+pip3 install hellobaby==0.0.6
+```
+                    
+
+### Cómo utilizar
+
+```python
+from hellobaby import hellobaby
+hellobaby().test('Hello')
+```
 
 ---
 
