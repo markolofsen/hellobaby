@@ -5,7 +5,7 @@
 
 Sample variable for repo: [[any_repo_var]]
 
-Version = 0.0.3
+Version = 0.0.4
 Library name = hellobaby
 Title = hellobaby
 Keywords = good
@@ -13,7 +13,7 @@ Keywords = good
 ### Hot to install
 
 ```shell
-pip3 install hellobaby==0.0.3
+pip3 install hellobaby==0.0.4
 ```
                     
 
