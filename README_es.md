@@ -3,9 +3,10 @@
 
 ---
 
+!
 Variable de muestra para repo: [[any_repo_var]]
 
-Versión = 0.0.8
+Versión = 0.0.9
 Nombre de la biblioteca = hellobaby
 Título = hellobaby
 Palabras clave = good
@@ -13,7 +14,7 @@ Palabras clave = good
 ### Caliente para instalar
 
 ```sh
-pip3 install hellobaby==0.0.8
+pip3 install hellobaby==0.0.9
 ```
                     
 
